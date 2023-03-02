@@ -1,8 +1,6 @@
-package DSA;
+package Basic_DSA.Sorting;
 
 import java.util.Scanner;
-
-import static DSA.SelectionSorting.selectionSort;
 
 public class BubbleSorting {
     public static void swap(int[] arr, int i, int minIndex){
